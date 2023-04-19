@@ -1,4 +1,4 @@
-# Mahshid Ahmadi first HW for Computer Networking Course in 1400-1
+
 # IMPORTS--------------------------------------------------
 import matplotlib.pyplot as plt
 # calculate prob = nCr * p^r * (1-p)^(n-r)
